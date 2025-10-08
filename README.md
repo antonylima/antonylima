@@ -28,8 +28,8 @@
 
 ### 📊 Estatísticas  
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=sulivandolima&show_icons=true&theme=dracula)  
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=sulivandolima&layout=compact&theme=dracula)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=antonylima&show_icons=true&theme=dracula)  
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=antonylima&layout=compact&theme=dracula)
 
 ---
 
