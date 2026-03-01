@@ -22,7 +22,7 @@
 🔹 [Checklist ALECE](https://github.com/sulivandolima/checklist-alece)  
 🔹 [Login](https://github.com/sulivandolima/Login)  
 🔹 [Nostaplay](https://github.com/sulivandolima/nostaplay)  
-🔹 [Sons da Cidade](https://github.com/sulivandolima)  
+🔹 [Somnacity](https://github.com/sulivandolima)  
 
 ---
 
