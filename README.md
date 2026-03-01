@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Sulivando Lima  
 
 💻 Desenvolvedor apaixonado por **aplicações multiplataformas** com foco em **React, Node, PHP e Android**.  
-🚀 Atualmente desenvolvendo o projeto **Som na City**, um app para divulgar a agenda musical de bares.  
+🚀 Atualmente desenvolvendo o projeto **Somnacity**, um app para divulgar a agenda musical de bares.  
 📚 Sempre aprendendo mais sobre **full stack, SaaS e automação web**.  
 
 ---
